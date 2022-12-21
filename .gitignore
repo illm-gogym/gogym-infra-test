@@ -1,0 +1,5 @@
+terraform.tfstate
+terraform.tfstate.backup
+.terraform
+.terraform.lock.hcl
+new_user_credentials.csv
